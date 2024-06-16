@@ -16,7 +16,7 @@ def get_matrix(n, m, value):
     # 7. После всех циклов верните значение переменной matrix.
     return matrix
 
-# 8. После всех циклов верните значение переменной matrix.
+# 8. Выведите на экран(консоль) результат работы функции get_matix.
 result1 = get_matrix(2,2,5)
 print(result1)
 result2 = get_matrix(5,1,4)
